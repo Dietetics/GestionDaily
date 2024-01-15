@@ -6,6 +6,9 @@ GestionDaily
 ## Description
 un app pour generer ses plans
 
+## Aperçu
+![Image d'aperçu du projet](visuel.png)
+
 ## Donnes initiales
 sont dans le fichier csv   (src/Daily/DailyDatas), a ajuster au besoin, ou just tout supprimer
 
