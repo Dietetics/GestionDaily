@@ -1,0 +1,28 @@
+APP:
+
+-Menu
+-ControlBar(imput datas to txt)
++ Boolean Done
++ name
++ size
++ type
++ new
++ use
++ time (6 sep)
++ storage
++ diff
++ infos
++ menu
+
+-ViewBar(search items)
+-DataBar(all data)
+
+
+Class:
+
+- write
+- read
+- search
+- remove
+- edit
+
